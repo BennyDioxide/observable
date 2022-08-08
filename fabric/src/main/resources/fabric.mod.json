@@ -29,7 +29,8 @@
     "fabricloader": ">=0.12.0",
     "fabric": "*",
     "minecraft": ">=1.18.2",
-    "architectury": ">=4.1.32"
+    "architectury": ">=4.1.32",
+    "fabric-language-kotlin": ">=1.7.1+kotlin.1.6.10"
   },
   "suggests": {
     "flamingo": "*"
